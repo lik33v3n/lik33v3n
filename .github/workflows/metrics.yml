@@ -37,9 +37,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_ignored: Mako
           plugin_lines: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://t.me/likeeven
-          plugin_pagespeed_detailed: yes
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
@@ -53,3 +50,4 @@ jobs:
           plugin_topics_sort: random
           plugin_topics_limit: 0
           plugin_traffic: yes
+          plugin_habits: yes
