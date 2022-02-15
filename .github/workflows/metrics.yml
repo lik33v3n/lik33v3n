@@ -12,4 +12,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          plugin_languages: yes
+          config_timezone: Europe/Kiev
           token: ${{ secrets.METRICS_TOKEN }}
